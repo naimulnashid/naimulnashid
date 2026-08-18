@@ -1,7 +1,5 @@
 # Hi there, I'm Md. Naimul Hasan Nashid 👋
-Mechanical Engineering Graduate
-Bangladesh University of Engineering and Technology (BUET)
-Dhaka, Bangladesh 
+Mechanical Engineering Graduate, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
 
 ---
 
