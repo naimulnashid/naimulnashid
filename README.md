@@ -16,41 +16,48 @@ I explore physics-based modeling, machine learning and materials simulation, and
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/ai-usage.svg" width="32" height="32" alt="AI Usage logo" /> &nbsp;<a href="https://github.com/naimulnashid/ai-usage-native">AI Usage</a></h3>
+<h3><img src="assets/icons/ai-usage.svg" width="32" height="32" alt="AI Usage logo" /><br />
+<a href="https://github.com/naimulnashid/ai-usage-native">AI Usage</a></h3>
 <p>Token usage, estimated costs and runtime for Claude Code and Codex.</p>
 <p>Windows · C# / WinUI 3</p>
 </td>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/data.svg" width="32" height="32" alt="Data Usage logo" /> &nbsp;<a href="https://github.com/naimulnashid/data-usage-native">Data Usage</a></h3>
+<h3><img src="assets/icons/data.svg" width="32" height="32" alt="Data Usage logo" /><br />
+<a href="https://github.com/naimulnashid/data-usage-native">Data Usage</a></h3>
 <p>Persistent per-app network history, with desktop and web versions.</p>
 <p>Windows · Web · Android reporter</p>
 </td>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/speed.svg" width="32" height="32" alt="Internet Speed Meter logo" /> &nbsp;<a href="https://github.com/naimulnashid/internet-speed-meter-native">Internet Speed Meter</a></h3>
+<h3><img src="assets/icons/speed.svg" width="32" height="32" alt="Internet Speed Meter logo" /><br />
+<a href="https://github.com/naimulnashid/internet-speed-meter-native">Internet Speed Meter</a></h3>
 <p>Taskbar upload/download rates, connection history and speed tests.</p>
 <p>Windows · C# / WinUI 3</p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/music.svg" width="32" height="32" alt="Music Vault logo" /> &nbsp;<a href="https://github.com/naimulnashid/music-vault">Music Vault</a></h3>
+<h3><img src="assets/icons/music.svg" width="32" height="32" alt="Music Vault logo" /><br />
+<a href="https://github.com/naimulnashid/music-vault">Music Vault</a></h3>
 <p>A self-hosted music library across Windows, Android and the web.</p>
 <p>Rust · TypeScript · Kotlin</p>
 </td>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/drive.svg" width="32" height="32" alt="NAND Watch logo" /> &nbsp;<a href="https://github.com/naimulnashid/nand-watch">NAND Watch</a></h3>
+<h3><img src="assets/icons/drive.svg" width="32" height="32" alt="NAND Watch logo" /><br />
+<a href="https://github.com/naimulnashid/nand-watch">NAND Watch</a></h3>
 <p>NVMe health history, endurance estimates and alerts.</p>
 <p>Windows · C# / WinUI 3</p>
 </td>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/time.svg" width="32" height="32" alt="Screen Time logo" /> &nbsp;<a href="https://github.com/naimulnashid/screen-time-native">Screen Time</a></h3>
+<h3><img src="assets/icons/time.svg" width="32" height="32" alt="Screen Time logo" /><br />
+<a href="https://github.com/naimulnashid/screen-time-native">Screen Time</a></h3>
 <p>Foreground-app usage history with desktop and web views.</p>
 <p>Windows · Web · Android reporter</p>
 </td>
 </tr>
 <tr>
 <td colspan="3" valign="top">
-<h3><img src="assets/icons/token-distribution.svg" width="32" height="32" alt="Token Distribution logo" /> &nbsp;<a href="https://github.com/naimulnashid/token-distribution">Token Distribution</a></h3>
+<h3><img src="assets/icons/token-distribution.svg" width="32" height="32" alt="Token Distribution logo" /><br />
+<a href="https://github.com/naimulnashid/token-distribution">Token Distribution</a></h3>
 <p>A Claude Code mod displaying token categories and prompt-cache timers.</p>
 <p>Claude Code · TypeScript</p>
 </td>
