@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" role="img" aria-label="Md. Naimul Hasan Nashid, Mechanical Engineering, BUET">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10253c"/><stop offset="1" stop-color="#103b48"/></linearGradient><linearGradient id="accent"><stop stop-color="#53d4bf"/><stop offset="1" stop-color="#88b9ff"/></linearGradient></defs>
+<rect width="1200" height="224" rx="18" fill="url(#bg)"/>
+<g stroke="#80daca" stroke-opacity=".17" fill="none"><path d="M855 0v224m80-224v224m80-224v224m80-224v224M800 42h400M800 112h400M800 182h400"/><circle cx="1008" cy="112" r="79"/><ellipse cx="1008" cy="112" rx="126" ry="42" transform="rotate(-30 1008 112)"/><ellipse cx="1008" cy="112" rx="126" ry="42" transform="rotate(30 1008 112)"/></g>
+<g fill="#69d9c2"><circle cx="929" cy="112" r="5"/><circle cx="1047" cy="44" r="5"/><circle cx="1047" cy="180" r="5"/></g>
+<rect x="46" y="44" width="48" height="4" rx="2" fill="url(#accent)"/>
+<text x="46" y="102" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">Md. Naimul Hasan Nashid</text>
+<text x="48" y="140" fill="#b9d2df" font-family="Segoe UI,Arial,sans-serif" font-size="19">Mechanical Engineering Graduate · BUET</text>
+<text x="48" y="183" fill="#72d8c2" font-family="Segoe UI,Arial,sans-serif" font-size="17">Scientific computing · Materials · Machine learning · Software</text>
+</svg>
