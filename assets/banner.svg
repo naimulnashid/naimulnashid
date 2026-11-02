@@ -1,19 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" role="img" aria-label="Md. Naimul Hasan Nashid, Mechanical Engineering, BUET">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10253c"/><stop offset="1" stop-color="#103b48"/></linearGradient></defs>
-<rect width="1200" height="224" rx="18" fill="url(#bg)"/>
-<g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M919.00,106.00 L927.79,110.52 L925.80,120.35 L915.95,121.11 L913.77,125.50 L919.13,133.81 L912.49,141.33 L903.58,137.06 L899.50,139.77 L899.98,149.64 L890.47,152.84 L884.89,144.69 L880.00,145.00 L875.48,153.79 L865.65,151.80 L864.89,141.95 L860.50,139.77 L852.19,145.13 L844.67,138.49 L848.94,129.58 L846.23,125.50 L836.36,125.98 L833.16,116.47 L841.31,110.89 L841.00,106.00 L832.21,101.48 L834.20,91.65 L844.05,90.89 L846.23,86.50 L840.87,78.19 L847.51,70.67 L856.42,74.94 L860.50,72.23 L860.02,62.36 L869.53,59.16 L875.11,67.31 L880.00,67.00 L884.52,58.21 L894.35,60.20 L895.11,70.05 L899.50,72.23 L907.81,66.87 L915.33,73.51 L911.06,82.42 L913.77,86.50 L923.64,86.02 L926.84,95.53 L918.69,101.11 Z" fill="#1d595d" fill-opacity=".3" stroke="#72d8c2" stroke-width="1.8"/>
-<circle cx="880" cy="106" r="16" stroke="#72d8c2" stroke-width="2"/>
-<path d="M880 90V69M894 114l19 11M866 114l-19 11M929 106h27M950 100l8 6-8 6" stroke="#72d8c2" stroke-width="2"/>
-<rect x="976" y="47" width="172" height="116" rx="12" fill="#172f47" stroke="#88b9ff" stroke-width="1.6"/>
-<path d="M968 72h8M968 94h8M968 116h8M968 138h8M1148 72h8M1148 94h8M1148 116h8M1148 138h8" stroke="#88b9ff" stroke-width="2"/>
-<rect x="991" y="64" width="142" height="33" rx="5" stroke="#88b9ff" stroke-opacity=".6"/>
-<path d="M1062 98v13m-4-4 4 4 4-4" stroke="#88b9ff" stroke-width="1.5"/>
-<rect x="991" y="113" width="142" height="33" rx="5" stroke="#88b9ff" stroke-opacity=".6"/>
+<rect width="1200" height="224" rx="18" fill="#102a3a"/>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+<text x="600" y="90" fill="#fff" font-size="44.333" font-weight="700">Md. Naimul Hasan Nashid</text>
+<text x="600" y="132" fill="#bfd2df" font-size="20.333">Mechanical Engineering Graduate · BUET</text>
+<text x="600" y="174" fill="#83d4c5" font-size="18.333">Scientific computing · Materials · Machine learning · Software</text>
 </g>
-<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle"><text x="1062" y="86" fill="#d7e9ff" font-size="15">SELF-ATTENTION</text><text x="1062" y="135" fill="#d7e9ff" font-size="15">FEED-FORWARD</text><text x="880" y="185" fill="#72d8c2" font-size="13">MECHANICS</text><text x="1062" y="185" fill="#88b9ff" font-size="13">ML / LLM</text></g>
-<rect x="46" y="43" width="48" height="4" rx="2" fill="#72d8c2"/>
-<text x="46" y="102" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="44.333" font-weight="700">Md. Naimul Hasan Nashid</text>
-<text x="48" y="143" fill="#b9d2df" font-family="Segoe UI,Arial,sans-serif" font-size="20.333">Mechanical Engineering Graduate · BUET</text>
-<text x="48" y="186" fill="#72d8c2" font-family="Segoe UI,Arial,sans-serif" font-size="18.333">Scientific computing · Materials · Machine learning · Software</text>
 </svg>
