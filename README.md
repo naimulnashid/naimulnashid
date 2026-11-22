@@ -55,7 +55,7 @@ My research interests are additive manufacturing, computational heat transfer, t
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top">
+<td width="33%" valign="top">
 <h3><img src="assets/icons/token-distribution.svg" width="32" height="32" alt="Token Distribution logo" /><br />
 <a href="https://github.com/naimulnashid/token-distribution">Token Distribution</a></h3>
 <p>A Claude Code mod displaying token categories and prompt-cache timers.</p>
