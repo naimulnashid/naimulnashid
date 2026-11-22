@@ -114,21 +114,5 @@ My research interests are additive manufacturing, computational heat transfer, t
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
-  <img src="assets/toolkit-light.svg" width="100%" alt="Programming: C, Python, MATLAB; CAD: SOLIDWORKS, AutoCAD; Computational Simulation: COMSOL Multiphysics, ANSYS, LAMMPS; Visualization: OVITO, VMD, Tecplot; Electronics: Arduino, Tinkercad Circuits; Machine Learning: PyTorch, OpenCV, LangChain, RAG, Vector DB, Ollama; Game Development: Unity, Unreal Engine, Blender; Documentation: Git, LaTeX, Zotero" />
+  <img src="assets/toolkit-light.svg" width="100%" alt="Programming: C, Python, MATLAB; CAD: SOLIDWORKS, AutoCAD; Computational Simulation: COMSOL Multiphysics, ANSYS, LAMMPS; Visualization: OVITO, VMD, Tecplot; Electronics: Arduino, Tinkercad Circuits; Machine Learning: PyTorch, OpenCV, LangChain, Ollama; Documentation: Git, LaTeX, Zotero; Game Development: Unity, Unreal Engine, Blender" />
 </picture>
-
-## Research & engineering background
-
-### Selective Laser Melting
-
-For my undergraduate thesis, I developed a <strong>Python-based moving heat-source solver from scratch</strong> for Ti-6Al-4V and Inconel-718. I compared steady-state/transient formulations and temperature-dependent property treatments against published melt-pool measurements.
-
-A thesis-based paper has been <strong>accepted for oral presentation at ICMIME 2026</strong>.
-
-### Engineering projects
-
-- <strong>Heat exchanger:</strong> team project involving modified gaskets/baffles, CFD, fabrication and hydraulic testing.
-- <strong><a href="https://github.com/naimulnashid/varanus-quadruped-robot">Varanus</a>:</strong> quadruped robot with 3D-printed parts, Arduino gait control and ESP32-CAM integration.
-- <strong>Control simulation:</strong> MATLAB/Simulink comparison of P, PI and PID wire-tension controllers.
-
-[Research](https://sites.google.com/view/naimulnashid/research) · [Engineering portfolio](https://sites.google.com/view/naimulnashid/projects)
