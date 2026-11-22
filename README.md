@@ -13,6 +13,8 @@ My research interests are additive manufacturing, computational heat transfer, t
 
 ## Featured Applications
 
+Personal tools still in active development, built for my own setup. Each README says what the app needs and what an update can change.
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
