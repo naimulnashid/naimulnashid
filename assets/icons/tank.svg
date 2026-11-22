@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Water Tank Level Control">
+  <title>Water Tank Level Control</title>
+  <defs><linearGradient id="tile" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#262834"/><stop offset="1" stop-color="#16171E"/></linearGradient></defs>
+  <rect width="32" height="32" rx="7" ry="7" fill="url(#tile)"/>
+  <!-- Tank with its level between the 10 and 90 marks -->
+  <rect x="9" y="5" width="14" height="22" rx="1.5" fill="none" stroke="#E6EDF3" stroke-width="2"/>
+  <rect x="10" y="14" width="12" height="12" fill="#4FC3F7"/>
+  <line x1="6" y1="8" x2="9" y2="8" stroke="#FFC46B" stroke-width="2"/>
+  <line x1="6" y1="24" x2="9" y2="24" stroke="#FFC46B" stroke-width="2"/>
+</svg>

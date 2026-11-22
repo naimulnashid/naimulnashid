@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://sites.google.com/view/naimulnashid/naimul-nashid"><strong>Website</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:nashid2512@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/nhnashid/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.researchgate.net/profile/Md-Naimul-Hasan-Nashid">ResearchGate</a> &nbsp;·&nbsp;
-  <a href="mailto:nashid2512@gmail.com">Email</a>
+  <a href="https://sites.google.com/view/naimulnashid/naimul-nashid"><strong>Website</strong></a>
 </p>
 
-I explore physics-based modeling, machine learning and materials simulation, and build practical software using an AI-assisted workflow.
+My research interests are additive manufacturing, computational heat transfer, thermal-fluid systems and machine learning. I also build practical software using an AI-assisted workflow.
 
 ## Featured Applications
 
@@ -64,12 +64,65 @@ I explore physics-based modeling, machine learning and materials simulation, and
 </tr>
 </table>
 
+## Personal Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><img src="assets/icons/gpt2.svg" width="32" height="32" alt="GPT-2 from Scratch icon" /><br />
+<a href="https://github.com/naimulnashid/gpt2-from-scratch">GPT-2 from Scratch</a></h3>
+<p>GPT-2 774M built layer by layer, then fine-tuned for spam detection and instructions.</p>
+<p>Python · PyTorch</p>
+</td>
+<td width="33%" valign="top">
+<h3><img src="assets/icons/qa.svg" width="32" height="32" alt="LLM Question Answering icon" /><br />
+<a href="https://github.com/naimulnashid/langchain-gemini-qa-apps">LLM Question Answering</a></h3>
+<p>Answers from an FAQ sheet, a MySQL database and PDFs, with retrieval and Gemini.</p>
+<p>Python · LangChain · Streamlit</p>
+</td>
+<td width="33%" valign="top">
+<h3><img src="assets/icons/snake.svg" width="32" height="32" alt="Snake Deep Q-Learning icon" /><br />
+<a href="https://github.com/naimulnashid/snake-deep-q-learning">Snake Deep Q-Learning</a></h3>
+<p>An agent that learns to play Snake by deep Q-learning.</p>
+<p>Python · PyTorch · pygame</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3><img src="assets/icons/gesture.svg" width="32" height="32" alt="Hand-Gesture Volume Control icon" /><br />
+<a href="https://github.com/naimulnashid/hand-gesture-volume-control">Hand-Gesture Volume</a></h3>
+<p>Pinch in front of the webcam to set the Windows volume.</p>
+<p>Python · OpenCV · MediaPipe</p>
+</td>
+<td width="33%" valign="top">
+<h3><img src="assets/icons/tank.svg" width="32" height="32" alt="Water Tank Level Control icon" /><br />
+<a href="https://github.com/naimulnashid/labview-water-tank-level-control">Water Tank Control</a></h3>
+<p>A simulated tank that fills and drains between two limits.</p>
+<p>LabVIEW</p>
+</td>
+<td width="33%" valign="top">
+<h3><img src="assets/icons/flappy.svg" width="32" height="32" alt="Flappy Bird-Style Game icon" /><br />
+<a href="https://github.com/naimulnashid/unity-flappy-bird-tutorial">Flappy Bird-Style Game</a></h3>
+<p>A 2D side-scroller with a playable Windows build.</p>
+<p>Unity · C#</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+<h3><img src="assets/icons/target.svg" width="32" height="32" alt="Target Shooting Game icon" /><br />
+<a href="https://github.com/naimulnashid/unreal-target-shooting-game">Target Shooting Game</a></h3>
+<p>A first-person game: break every target with Chaos physics before time runs out.</p>
+<p>Unreal Engine 5 · Blueprints</p>
+</td>
+</tr>
+</table>
+
 ## Toolkit
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
-  <img src="assets/toolkit-light.svg" width="100%" alt="Programming Languages: C, Python, MATLAB; CAD &amp; Simulation: SOLIDWORKS, AutoCAD, ANSYS, COMSOL; Molecular Dynamics: LAMMPS, OVITO, VMD; Electronics: Arduino, Tinkercad; ML &amp; LLM: PyTorch, OpenCV, LangChain; Game Development: Unity, Unreal Engine, Blender; Documentation: Git, LaTeX, Tecplot, Zotero" />
+  <img src="assets/toolkit-light.svg" width="100%" alt="Programming: C, Python, MATLAB; CAD: SOLIDWORKS, AutoCAD; Computational Simulation: COMSOL Multiphysics, ANSYS, LAMMPS; Visualization: OVITO, VMD, Tecplot; Electronics: Arduino, Tinkercad Circuits; Machine Learning: PyTorch, OpenCV, LangChain, RAG, Vector DB, Ollama; Game Development: Unity, Unreal Engine, Blender; Documentation: Git, LaTeX, Tecplot, Zotero" />
 </picture>
 
 ## Research & engineering background
@@ -83,25 +136,7 @@ A thesis-based paper has been <strong>accepted for oral presentation at ICMIME 2
 ### Engineering projects
 
 - <strong>Heat exchanger:</strong> team project involving modified gaskets/baffles, CFD, fabrication and hydraulic testing.
-- <strong>Varanus:</strong> quadruped robot with 3D-printed parts, Arduino gait control and ESP32-CAM integration.
+- <strong><a href="https://github.com/naimulnashid/varanus-quadruped-robot">Varanus</a>:</strong> quadruped robot with 3D-printed parts, Arduino gait control and ESP32-CAM integration.
 - <strong>Control simulation:</strong> MATLAB/Simulink comparison of P, PI and PID wire-tension controllers.
 
 [Research](https://sites.google.com/view/naimulnashid/research) · [Engineering portfolio](https://sites.google.com/view/naimulnashid/projects)
-
-## Explore More
-
-<details>
-<summary><strong>AI, simulation & learning projects</strong></summary>
-
-| Project | Focus |
-| --- | --- |
-| [GPT implementation](https://github.com/naimulnashid/LLM_from_Scratch) | PyTorch architecture and classification/instruction fine-tuning with pretrained GPT-2 weights. |
-| [LangChain projects](https://github.com/naimulnashid/LangChain_Projects) | Retrieval, CSV/PDF question answering, natural-language-to-SQL and resume matching. |
-| [Computer vision](https://github.com/naimulnashid/ComputerVision) | Hand-gesture volume control using OpenCV and MediaPipe. |
-| [Reinforcement learning](https://github.com/naimulnashid/Reinforcemen_Learning) | Snake-game agent, environment and neural-network implementations. |
-| [LAMMPS](https://github.com/naimulnashid/LAMMPS) | Aluminum, silica, electrolyte, polymer and nanotube simulation exercises. |
-| [LabVIEW](https://github.com/naimulnashid/LabVIEW) | Water-tank level control. |
-| [Arduino](https://github.com/naimulnashid/Arduino) | Undergraduate electromechanical systems project. |
-| [Unity](https://github.com/naimulnashid/Unity) | Flappy Bird game project. |
-
-</details>
