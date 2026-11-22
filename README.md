@@ -81,19 +81,13 @@ My research interests are additive manufacturing, computational heat transfer, t
 <p>Python · LangChain · Streamlit</p>
 </td>
 <td width="33%" valign="top">
-<h3><img src="assets/icons/snake.svg" width="32" height="32" alt="Snake Deep Q-Learning icon" /><br />
-<a href="https://github.com/naimulnashid/snake-deep-q-learning">Snake Deep Q-Learning</a></h3>
-<p>An agent that learns to play Snake by deep Q-learning.</p>
-<p>Python · PyTorch · pygame</p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <h3><img src="assets/icons/gesture.svg" width="32" height="32" alt="Hand-Gesture Volume Control icon" /><br />
 <a href="https://github.com/naimulnashid/hand-gesture-volume-control">Hand-Gesture Volume</a></h3>
 <p>Pinch in front of the webcam to set the Windows volume.</p>
 <p>Python · OpenCV · MediaPipe</p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><img src="assets/icons/tank.svg" width="32" height="32" alt="Water Tank Level Control icon" /><br />
 <a href="https://github.com/naimulnashid/labview-water-tank-level-control">Water Tank Control</a></h3>
@@ -106,9 +100,7 @@ My research interests are additive manufacturing, computational heat transfer, t
 <p>A 2D side-scroller with a playable Windows build.</p>
 <p>Unity · C#</p>
 </td>
-</tr>
-<tr>
-<td colspan="3" valign="top">
+<td width="33%" valign="top">
 <h3><img src="assets/icons/target.svg" width="32" height="32" alt="Target Shooting Game icon" /><br />
 <a href="https://github.com/naimulnashid/unreal-target-shooting-game">Target Shooting Game</a></h3>
 <p>A first-person game: break every target with Chaos physics before time runs out.</p>
@@ -122,7 +114,7 @@ My research interests are additive manufacturing, computational heat transfer, t
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
-  <img src="assets/toolkit-light.svg" width="100%" alt="Programming: C, Python, MATLAB; CAD: SOLIDWORKS, AutoCAD; Computational Simulation: COMSOL Multiphysics, ANSYS, LAMMPS; Visualization: OVITO, VMD, Tecplot; Electronics: Arduino, Tinkercad Circuits; Machine Learning: PyTorch, OpenCV, LangChain, RAG, Vector DB, Ollama; Game Development: Unity, Unreal Engine, Blender; Documentation: Git, LaTeX, Tecplot, Zotero" />
+  <img src="assets/toolkit-light.svg" width="100%" alt="Programming: C, Python, MATLAB; CAD: SOLIDWORKS, AutoCAD; Computational Simulation: COMSOL Multiphysics, ANSYS, LAMMPS; Visualization: OVITO, VMD, Tecplot; Electronics: Arduino, Tinkercad Circuits; Machine Learning: PyTorch, OpenCV, LangChain, RAG, Vector DB, Ollama; Game Development: Unity, Unreal Engine, Blender; Documentation: Git, LaTeX, Zotero" />
 </picture>
 
 ## Research & engineering background
