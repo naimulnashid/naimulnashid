@@ -71,6 +71,12 @@ Personal tools still in active development, built for my own setup. Each README 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
+<h3><img src="assets/icons/lammps.svg" width="32" height="32" alt="LAMMPS Molecular Dynamics Tutorials icon" /><br />
+<a href="https://github.com/naimulnashid/lammps-md-tutorials">LAMMPS MD Tutorials</a></h3>
+<p>Six molecular-dynamics exercises, from compressing aluminum to pulling a carbon nanotube apart.</p>
+<p>LAMMPS · OVITO · VMD</p>
+</td>
+<td width="33%" valign="top">
 <h3><img src="assets/icons/gpt2.svg" width="32" height="32" alt="GPT-2 from Scratch icon" /><br />
 <a href="https://github.com/naimulnashid/gpt2-from-scratch">GPT-2 from Scratch</a></h3>
 <p>GPT-2 774M built layer by layer, then fine-tuned for spam detection and instructions.</p>
@@ -82,14 +88,14 @@ Personal tools still in active development, built for my own setup. Each README 
 <p>Answers from an FAQ sheet, a MySQL database and PDFs, with retrieval and Gemini.</p>
 <p>Python · LangChain · Streamlit</p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><img src="assets/icons/gesture.svg" width="32" height="32" alt="Hand-Gesture Volume Control icon" /><br />
 <a href="https://github.com/naimulnashid/hand-gesture-volume-control">Hand-Gesture Volume</a></h3>
 <p>Pinch in front of the webcam to set the Windows volume.</p>
 <p>Python · OpenCV · MediaPipe</p>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <h3><img src="assets/icons/tank.svg" width="32" height="32" alt="Water Tank Level Control icon" /><br />
 <a href="https://github.com/naimulnashid/labview-water-tank-level-control">Water Tank Control</a></h3>
@@ -102,6 +108,8 @@ Personal tools still in active development, built for my own setup. Each README 
 <p>A 2D side-scroller with a playable Windows build.</p>
 <p>Unity · C#</p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <h3><img src="assets/icons/target.svg" width="32" height="32" alt="Target Shooting Game icon" /><br />
 <a href="https://github.com/naimulnashid/unreal-target-shooting-game">Target Shooting Game</a></h3>
